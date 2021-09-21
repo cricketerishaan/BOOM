@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+#Apps{
+    font-size: 20px;
+    font-family:monospace;
+    font-weight: 300px;
+    background-color: aliceblue;
+}
+#Games{
+   font-size: 20px;
+    font-family:monospace;
+    font-weight: 300px;
+    background-color:beige;
+} 
+.line{
+    background-color: #000;
+    width:70px;
+    height:10px;
+     margin: 8px auto;
+}
+#Chatbot{
+    font-size: 20px;
+    font-family:monospace;
+    font-weight: 300px;
+    background-color:cornsilk;
+}
+img:hover{
+    transform: scale(0.9)
+}
+img{
+    transition: transform .2s;
+}
